@@ -1,5 +1,7 @@
 # Metagenomics
 
+[中文版](https://github.com/flowhub-team/CNV/blob/main/README_cn.md)
+
 Metagenomics research is a study method that involves analyzing the collective genome of microbial communities in environmental samples to understand their structure, functionality, and interactions. The typical steps involved in metagenomics research include sample collection, DNA or RNA extraction, high-throughput sequencing, data analysis, and interpretation.
 
 Metagenomics research has widespread applications in various fields. In environmental science, it can be used to study microbial diversity and functionality in ecosystems, as well as their responses to environmental changes. In agriculture, metagenomics research can be employed to improve microbial management strategies for soil health and crop growth. In medical research, it can help uncover the relationship between the human gut microbiota and health, disease, and treatment responses.
